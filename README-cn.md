@@ -5,8 +5,8 @@
 本软件所用的Xray服务端为支持win7x86版本，可自行更换为最新的x64版本
 借用USB调试 让安卓手机通过usb数据线上网
 1 插上数据线连接到电脑上，并打开USB调试
-2.安装V2Ray的安卓客户端 到安卓手机
+2.安装V2Ray的安卓客户端如V2rayNG 到安卓手机
 3.打开config_client.png
 4.安装好V2Ray 点右上角的加号 扫二维码
 5.点击start.bat  手机上若提示 允许usb调试 点运行
-6. 在V2Ray软件内找到Android reverse Tether 连接即可
+6. 在V2Ray客户端内找到Android reverse Tether 连接即可

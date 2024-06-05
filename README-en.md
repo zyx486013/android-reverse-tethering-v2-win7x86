@@ -7,7 +7,7 @@ Note: The Xray server included supports Windows 7 x86 version, but it can be rep
 
 Steps to Use
 Connect your Android device to the computer using a USB cable and enable USB debugging.
-Install the V2Ray client on your Android device.
+Install the V2Ray client like V2rayNG on your Android device.
 Open config_client.png.
 In the V2Ray app, tap the plus icon in the top right corner and scan the QR code.
 Run start.bat. If prompted on the phone to allow USB debugging, tap to allow.
