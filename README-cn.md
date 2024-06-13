@@ -6,7 +6,7 @@
 借用USB调试 让安卓手机通过usb数据线上网
 1 插上数据线连接到电脑上，并打开USB调试
 2.安装V2Ray的安卓客户端如V2rayNG 到安卓手机
-3.打开config_client.png
+3.打开config_client.jpg
 4.安装好V2Ray 点右上角的加号 扫二维码
 5.点击start.bat  手机上若提示 允许usb调试 点运行
 6. 在V2Ray客户端内找到Android reverse Tether 连接即可
